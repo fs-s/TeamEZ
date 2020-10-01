@@ -1,0 +1,73 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+	padding: 0.5rem;
+}
+
+.arrow {
+	border: solid 1px #0022c9;
+	border-radius: 50%;
+	color: #0022c9;
+	padding: 0.5rem 0.8rem;
+}
+
+.close {
+	border: solid 1px #000;
+	border-radius: 50%;
+	padding: 0 0.3rem
+}
+
+.filters {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+
+}
+
+.filters div {
+	border: solid 1px #0022c9;
+	border-radius: 10px;
+	color: #0022c9;
+	padding: 0.5rem;
+}
+
+.lang {
+	display: flex;
+	justify-content: right;
+	margin-bottom: 5px;
+
+}
+
+.lang div {
+	margin-left: 5px;
+}
+
+.selections {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.selections div {
+	margin: 0.5rem 0;
+	padding: 0.5rem;
+	border: solid 1px #0022c9;
+	border-radius: 10px;
+}
+
+.days > div{
+	display: flex;
+	background-color: #ccc;
+	margin: 10px 0;
+	padding: 0.5rem;
+}
+
+.days .open {
+	margin-left: auto;
+}
+
+.start {
+	display: grid;
+	grid-template-columns: 1rem auto auto;
+	column-gap: 5px;
+}
