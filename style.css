@@ -82,6 +82,20 @@ a {
 	flex-direction: column;
 }
 
+@media only screen and (min-width: 800px){
+	.days {
+		flex-direction: row;
+	}
+
+	.days > a {
+		flex: 1;
+	}
+
+	.days .open {
+		display: none;
+	}
+}
+
 .days > div, .days > a{
 	display: flex;
 	background-color: #D6F5EE;
