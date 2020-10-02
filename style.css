@@ -169,6 +169,13 @@ a {
 	padding: 1rem;
 }
 
+.event {
+	background-color: #e42d2d;
+	border-radius: 10px;
+	padding: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
 .lessons .break {
 	height: 6px;
 	background-color: #c4c4c4;
