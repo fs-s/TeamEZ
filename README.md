@@ -1,6 +1,6 @@
 # TeamEZ
 
-Tiimiliikmed:
+### Tiimiliikmed:
 - Martin Trumann
 - Daniel Nõukas
 - Joonas Püüding
