@@ -7,6 +7,6 @@ Tiimiliikmed: Martin Trumann
               Johanna Avik
               Siiri Selberg
 
-FIGMA PROTOTÜÜP:
+**FIGMA PROTOTÜÜP:**
 
 Desktop/Mobiili vaade, https://www.figma.com/file/6beOOX3ySEW4ofg8Fmeq0I/Untitled?node-id=0%3A1
